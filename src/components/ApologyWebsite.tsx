@@ -190,16 +190,16 @@ const ApologyWebsite = () => {
           
           <div className="bg-white/50 backdrop-blur-sm rounded-2xl p-8 shadow-lg border border-white/20 animate-fade-in-up" style={{animationDelay: '0.6s'}}>
             <p className="text-lg">
-              I know I might've been a little much sometimes with all my messages, and if it ever felt overwhelming, I'm really sorry. That was never my intention. But, I just wanna say… I genuinely love you
+              I know I might&apos;ve been a little much sometimes with all my messages, and if it ever felt overwhelming, I&apos;m really sorry. That was never my intention. But, I just wanna say… I genuinely love you
             </p>
             <p className="text-lg mb-4">
               (AS A FRIEND.)
             </p>
             <p className="text-lg mb-4">
-              like for real.. for the kind, warm, funny, thoughtful human you are. As a friend, you're such a special part of my life, and I honestly feel lucky to know you. 💛
+              like for real.. for the kind, warm, funny, thoughtful human you are. As a friend, you&apos;re such a special part of my life, and I honestly feel lucky to know you. 💛
             </p>
             <p className="text-lg mb-4">
-              Alsooo, I'm sorry if I spam your messages a little too often 😭 I just enjoy talking to you so much that sometimes I forget to chill a bit hahaha. But if it ever gets too much, just let me know, okay? I'll totally understand!
+              Alsooo, I&apos;m sorry if I spam your messages a little too often 😭 I just enjoy talking to you so much that sometimes I forget to chill a bit hahaha. But if it ever gets too much, just let me know, okay? I&apos;ll totally understand!
             </p>
             <p className="text-lg font-medium text-pink-600">
               I hope you can find it in your heart to forgive me. Love u always, in the softest way possible 💌💗
